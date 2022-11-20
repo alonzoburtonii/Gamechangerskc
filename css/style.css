@@ -49,6 +49,13 @@ header nav{
 
 header .higlight, header .current a{
   color: #e8491d;
+  font-weight:bold;
+}
+
+header a:hover{
+  color:#cccccc;
+  font-weight:bold;
+  
   
 
   

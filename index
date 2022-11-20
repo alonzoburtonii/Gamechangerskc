@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="descritption" content="Whether it's character development or community
+    involvmenet and support - we are here to change lives thus changing the entire game.
+    The primary aim of GameChangers  is to teach Servant Leadership. Our focus group and target
+    audience is the athletic community.">
+    <meta name="keywords" content="Study Halls, Tutoring, ACT Prep, Life Skills, Peer Mentoring, Life Coach, 
+    Athletic Training, Sport Specific Training, Leagues, Club Team">
+    <meta name="author" content="Alonzo Burton II">
+    <title>Game Changers Kansas City | Welcome</title>
+    <link rel="stylesheet" href="./css/style.css">
+   </head>
+   <body>
+    <header>
+      <div class="container">
+        <div id="branding">
+          <h1>Game Changers Kansas City</h1>
+        </div>
+        <nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="About.html">About</a></li>
+            <li><a href="Services.html">Services</a></li>
+          </ul>
+         </nav>
+        </div>
+     </header>
+     
+     <section> id="showcase">
+      <div class="container">
+        <h1>More Than A Game...</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque facilisis tempor mi et posuere.
+        Donec ut facilisis sapien. Praesent eget nisi blandit, pretium metus sed, pretium nulla. Nunc at placerat
+        sapien. Phasellus scelerisque nisi venenatis, mattis metus a, pretium mauris. Mauris ullamcorper lectus eget
+        ante vehicula, vitae gravida sem imperdiet. Vestibulum rutrum tincidunt dui, scelerisque hendrerit ante
+        sollicitudin eget. Vestibulum facilisis orci eu diam accumsan, ac scelerisque sapien faucibus. Nunc fermentum
+        euismod ullamcorper.</p>
+       </div>
+      </section>
+      
+      <section id="newsletter">
+        <div class="container"> 
+          <h1>Subscribe to Our Newsletter</h1>
+          <form>
+            <input type="email placeholder="Enter Email...">
+            <button type="submit" class="button_1">Subscribe</button>
+          </form>
+          </div>
+       </section>
+       
+       <section id="boxes">
+        <div class="container">
+          <div class="box">
+            <img src="./img/logo_html.png">
+            <h3>Life Coaching<h3>
+            <p>Suspendisse a justo non quam placerat rutrum. Suspendisse sollicitudin nisi vel justo condimentum tincidunt.
+            Nam elit neque, finibus vel ipsum at, mollis gravida libero.</p>
+          </div>
+          <div class="box">
+            <img src="./img/logo_html.png">
+            <h3>Tutoring<h3>
+            <p>Suspendisse a justo non quam placerat rutrum. Suspendisse sollicitudin nisi vel justo condimentum tincidunt.
+            Nam elit neque, finibus vel ipsum at, mollis gravida libero.</p>
+          </div>
+          <div class="box">
+            <img src="./img/logo_html.png">
+            <h3>Athletic Training<h3>
+            <p>Suspendisse a justo non quam placerat rutrum. Suspendisse sollicitudin nisi vel justo condimentum tincidunt.
+            Nam elit neque, finibus vel ipsum at, mollis gravida libero.</p>
+          </div>
+        </div>
+       </section>
+       
+       <footer>
+       <p>Game Changers KC, Copyright &copy; 2022</p>
+       </footer>
+   </body>
+  </html>
+  

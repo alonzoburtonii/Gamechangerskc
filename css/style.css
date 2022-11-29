@@ -2,7 +2,7 @@ body{
   font: 15px/1.5 Arial, Helvetica, sans-serif;
   padding:0;
   margin:0;
-  background-color:#f4f4f4;
+  background-color:#CF0A0A;
 }
 
 /* Global*/
@@ -74,7 +74,7 @@ header .higlight, header .current a{
 }
 
 header a:hover{
-  color:#cccccc;
+  color:#CF0A0A;
   font-weight:bold;
 }
 
